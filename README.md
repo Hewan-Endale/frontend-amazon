@@ -1,5 +1,5 @@
 # Amazon replica react learining path ...
 
-## deployed frontend: https://amazon-clone-evangadi.vercel.app/orders
-## deployed backend : https://amazon-backend-kjkt.onrender.com
+## deployed frontend:
+## deployed backend :https://amazon-backend-deploy-bk17.onrender.com
 
